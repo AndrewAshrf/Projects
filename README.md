@@ -17,3 +17,7 @@ DRIVERS:
 -LCD
 
 **Solving some Testcases**
+
+Keypad Used:
+
+![Keypad-Implementation](https://user-images.githubusercontent.com/115406736/194777016-2245d342-a5d5-482f-9c9c-faf9dfabaa6a.png)
