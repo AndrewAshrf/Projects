@@ -1,7 +1,5 @@
 IMT FULL EMBEDDED SYSTEMS DIPLOMA Task
-
 Application using AVR:-
-
 Simple Calculator:
 
 By using ATmega32 Microcontroller ,Keypad(4x4) and LCD.
